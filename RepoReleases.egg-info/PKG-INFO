@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: RepoReleases
+Version: 0.1
+Home-page: https://github.com/SandyArevmon/RepoReleases
+Author: Sandy
+Author-email: sandyam1@outlook.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
